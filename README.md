@@ -33,6 +33,7 @@ source venv/bin/activate   # Linux / Mac
 # venv\Scripts\activate
 pip install -r requirements.txt
 
+---
 
 ## Dosya Yapısı
 Recon-project/
