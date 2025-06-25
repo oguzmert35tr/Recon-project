@@ -32,6 +32,9 @@ source venv/bin/activate   # Linux / Mac
 # Windows için:
 # venv\Scripts\activate
 pip install -r requirements.txt
+
+
+## Dosya Yapısı
 Recon-project/
 ├── main.py                  # Ana program dosyası
 ├── scanner/                 # Tarama modülleri
