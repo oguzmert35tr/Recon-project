@@ -1,0 +1,17 @@
+# Dirsearch started at 2025-06-24 22:56:54 as: dirsearch.py -u http://localhost:9000/ -e json,js -w /usr/share/wordlists/dirb/common.txt -x 404,403 -t 20 -o ../endpoints.txt
+500   732B http://localhost:9000/api
+500   734B http://localhost:9000/apis
+301   156B http://localhost:9000/assets  ->  /assets/
+200    4KB http://localhost:9000/ftp
+500   575B http://localhost:9000/profile
+200    3KB http://localhost:9000/promotion
+500   823B http://localhost:9000/redirect
+500   734B http://localhost:9000/restore
+500   733B http://localhost:9000/restaurants
+500   734B http://localhost:9000/restricted
+500   738B http://localhost:9000/restored
+500   734B http://localhost:9000/rest
+200    28B http://localhost:9000/robots.txt
+200   792B http://localhost:9000/snippets
+200   10MB http://localhost:9000/video
+200   10MB http://localhost:9000/Video

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+scanner/__pycache__/
+scanner/urls*.txt
+scanner/vulnerable_urls.txt
+scanner/sqlmap_detailed_results.txt
+scanner/false_positives.txt
+scanner/xss_results.txt
+scanner/misconfig_*.txt
+scanner/idor_vulnerable.txt
+dirsearch/
+paramspider/
+

@@ -1,0 +1,12 @@
+http://localhost:9000/api/Quantitys
+http://localhost:9000/api/Quantitys/
+http://localhost:9000/api/Challenges
+http://localhost:9000/rest/user
+http://localhost:9000/rest/user/whoami
+http://localhost:9000/rest/products
+http://localhost:9000/rest/admin
+http://localhost:9000/rest/admin/application-configuration
+http://localhost:9000/rest/admin/application-version
+http://localhost:9000/rest/captcha
+http://localhost:9000/rest/languages
+

