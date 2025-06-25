@@ -24,7 +24,7 @@ Bu proje, özellikle OWASP Juice Shop gibi eğitim amaçlı uygulamalarda kullan
 
 Projeyi klonlayıp bağımlılıkları yüklemek için:
 
-
+```bash
 git clone git@github.com:oguzmert35tr/Recon-project.git
 cd Recon-project
 python3 -m venv venv
