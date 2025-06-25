@@ -1,6 +1,6 @@
 # Recon & Vulnerability Scanner
 
-**Recon & Vulnerability Scanner**, web uygulamalarındaki yaygın güvenlik açıklarını otomatik olarak tespit etmek için geliştirilmiş Python tabanlı bir araçtır.
+**Recon & Vulnerability Scanner**, web uygulamalarındaki yaygın güvenlik açıklarını otomatik olarak tespit etmek için geliştirilmiş Python tabanlı bir araçtır.  
 Bu proje, özellikle OWASP Juice Shop gibi eğitim amaçlı uygulamalarda kullanılmak üzere SQL Injection, XSS, IDOR ve Security Misconfiguration gibi zafiyetleri tarar.
 
 ---
